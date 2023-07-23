@@ -1,10 +1,10 @@
 
-install this dependency for the script
+install this dependency for the script for debian.
 
 ```
 apt-get install libwww-perl libcrypt-rijndael-perl
 ```
-for debian.
+
 
 ```
 perl deeptesting-junk.pl pcb 0xHHHHHHHH imei DDDDDDDDDDDDDDD cmd applyLkUnlock
