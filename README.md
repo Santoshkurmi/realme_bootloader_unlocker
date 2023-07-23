@@ -18,3 +18,6 @@ and after 1 or few minutes it will be accepted.to check if accepted or not
 ```
 perl deeptesting-junk.pl pcb 0xHHHHHHHH imei DDDDDDDDDDDDDDD cmd checkApproveResult
 ```
+
+
+## This script is not created by me.I have just changed the server to china and modified device model to support for chinese rom
